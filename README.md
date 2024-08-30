@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham18353
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Node.js
+- 👀 I’m interested in .NET Development.
+- 🌱 I’m currently working as .NET Core Developer.
 - 💞️ I’m looking to collaborate on Certain Projects.
 - 📫 How to reach me - spgupta822@gmail.com
 

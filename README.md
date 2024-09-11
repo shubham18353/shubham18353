@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET Development.
 - 🌱 I’m currently working as .NET Core Developer.
 - 💞️ I’m looking to collaborate on Certain Projects.
-- 📫 How to reach me - spgupta822@gmail.com
+- 📫 How to reach me - shubham.18353@gmail.com
 
 <!---
 shubham18353/shubham18353 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

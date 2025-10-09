@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham18353
 - 👀 I’m interested in .NET Development.
-- 🌱 I’m currently working as .NET Core Developer.
+- 🌱 I’m currently working as OMP Security Consultant | Anaplan | SAP BASIS | .NET Developer.
 - 💞️ I’m looking to collaborate on Certain Projects.
 - 📫 How to reach me - shubham.18353@gmail.com
 
